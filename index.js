@@ -30,7 +30,7 @@ const gamesAED = [
     {image : "games/loot/img.png", title: "Zombies y Loot", description: "Santiago Gomez - En proceso", link: "games/loot/index.html"},
     {image : "games/escapajapon/img.png", title: "Escape Japones", description: "Ana Porco Flores", link: "games/escapajapon/index.html"},
     {image : "games/linterna/img.png", title: "Plataforma a Oscuras", description: "Karen - En proceso", link: "games/linterna/index.html"},
-    {image : "games/laberinto/img.png", title: "Laberinto", description: "Luana Lopez - En proceso", link: "games/laberinto/index.html"},
+    {image : "games/laberinto/img.png", title: "Laberinto", description: "Luana Lopez", link: "games/laberinto/index.html"},
     {image : "games/narrativo/img.png", title: "Juego Narrativo para Esquivar", description: "Sol Perez - En proceso", link: "games/narrativo/index.html"},
     {image : "games/disparos/img.png", title: "Disparos y Zombies", description: "Leonardo Ojeda", link: "games/disparos/index.html"},
     {image : "games/trivia/img.png", title: "Trivia en un Lago", description: "Rocio Albarracin Quispe - En proceso", link: "games/trivia/index.html"},
@@ -38,6 +38,9 @@ const gamesAED = [
     {image : "games/gatorana/img.png", title: "Gato Rana", description: "Micaela Fernandez", link: "games/gatorana/index.html"},
     {image : "games/pingu/img.png", title: "Pingüino", description: "Lucia Acuña", link: "games/pingu/index.html"},
     {image : "games/spacex/img.png", title: "SpaceX", description: "Luciano Alcaraz", link: "games/spacex/index.html"},
+    {image : "games/godzilla/img.png", title: "Godzilla", description: "Nain Isla", link: "games/godzilla/index.html"},
+    {image : "games/rescate/img.png", title: "Rescate de los Perros", description: "Diego Ajata", link: "games/rescate/index.html"},
+
 ]
 
 
