@@ -24,7 +24,7 @@ const gamesAED = [
     {image : "games/aquaman/img.png", title: "Aquaman", description: "Valentin Velazquez - En proceso", link: "games/aquaman/index.html"},
     {image : "games/ludo/img.png", title: "Ludo", description: "Ariana Fabiola - En proceso", link: "games/ludo/index.html"},
     {image : "games/carrera/img.png", title: "Carrera", description: "Evelyn Villareal", link: "games/carrera/index.html"},
-    {image : "games/pitusa/img.png", title: "Plataformero Gotico", description: "Fabian Gabriel", link: "games/pitusa/index.html"},
+    {image : "games/pitusa/img.png", title: "Capitan Pitusa", description: "Fabian Gabriel", link: "games/pitusa/index.html"},
     {image : "games/conejo/img.png", title: "Conejo Catcher", description: "Priscila Della Torre", link: "games/conejo/index.html"},
     {image : "games/crossy/img.png", title: "Crossy Road", description: "Ayelen Quispe", link: "games/crossy/index.html"},
     {image : "games/loot/img.png", title: "Zombies y Loot", description: "Santiago Gomez - En proceso", link: "games/loot/index.html"},
@@ -36,6 +36,8 @@ const gamesAED = [
     {image : "games/trivia/img.png", title: "Trivia en un Lago", description: "Rocio Albarracin Quispe - En proceso", link: "games/trivia/index.html"},
     {image : "games/muzan/img.png", title: "Tanjiro vs Muzan", description: "Thomas Avila", link: "games/muzan/index.html"},
     {image : "games/gatorana/img.png", title: "Gato Rana", description: "Micaela Fernandez", link: "games/gatorana/index.html"},
+    {image : "games/pingu/img.png", title: "Pingüino", description: "Lucia Acuña", link: "games/pingu/index.html"},
+    {image : "games/spacex/img.png", title: "SpaceX", description: "Luciano Alcaraz", link: "games/spacex/index.html"},
 ]
 
 
