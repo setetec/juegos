@@ -40,7 +40,7 @@ const gamesAED = [
     {image : "games/spacex/img.png", title: "SpaceX", description: "Luciano Alcaraz", link: "games/spacex/index.html"},
     {image : "games/godzilla/img.png", title: "Godzilla", description: "Nain Isla", link: "games/godzilla/index.html"},
     {image : "games/rescate/img.png", title: "Rescate de los Perros", description: "Diego Ajata", link: "games/rescate/index.html"},
-
+    {image : "games/dimentional_tales/img.png", title: "Over the Dimentional Tale", description: "Juan manuel Parrado", link: "games/dimentional_tales/index.html"},
 ]
 
 
