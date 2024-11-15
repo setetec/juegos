@@ -35,6 +35,7 @@ const gamesAED = [
     {image : "games/disparos/img.png", title: "Disparos y Zombies", description: "Leonardo Ojeda", link: "games/disparos/index.html"},
     {image : "games/trivia/img.png", title: "Trivia en un Lago", description: "Rocio Albarracin Quispe - En proceso", link: "games/trivia/index.html"},
     {image : "games/muzan/img.png", title: "Tanjiro vs Muzan", description: "Thomas Avila", link: "games/muzan/index.html"},
+    {image : "games/gatorana/img.png", title: "Gato Rana", description: "Micaela Fernandez", link: "games/gatorana/index.html"},
 ]
 
 
